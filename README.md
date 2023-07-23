@@ -20,7 +20,7 @@ To install the Elevator Timer App, simply download the APK file onto your Androi
 
 ## Download 
 
-- [Download Link(]bit.ly/ElevatorTimeApp)
+- [Download Link](bit.ly/ElevatorTimeApp)
 
 ## Disclaimer
 Please note that the Elevator Timer App is not responsible for any missed elevator opportunities or elevator-related mishaps. Use at your own risk!
