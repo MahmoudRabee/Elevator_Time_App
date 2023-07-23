@@ -1,19 +1,31 @@
-# Hello World
+# Elevator Timer App
+Welcome to the Elevator Timer App, the only app you need to determine whether it's the right time to use the elevator in Egypt!
 
-A new Flutter project created with FlutLab - https://flutlab.io
+## How it Works
+The Elevator Timer App is simple to use. Just open the app and you'll be taken to the main page, where you'll see a timer counting down to the next available time slot for using the elevator. This page will also display a funny GIF to keep you entertained while you wait.
 
-## Getting Started
+Once the timer reaches zero, you'll be able to use the elevator and the app will display a message letting you know that it's elevator time! But if the timer is still counting down, you'll need to wait a little longer before you can use the elevator.
 
-A few resources to get you started if this is your first Flutter project:
+If you try to use the elevator outside of the designated time slot, the app will take you to a second page that displays a sad GIF and a message letting you know that it's not elevator time right now. But don't worry, the timer will reset and you can try again later!
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Features
+* Simple and easy-to-use interface
+* Countdown timer to next available elevator time slot
+* Funny GIFs to keep you entertained while you wait
+* Alerts you when it's time to use the elevator
+* Reminds you when it's not elevator time
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+To install the Elevator Timer App, simply download the APK file onto your Android device and install it like any other app. Once installed, open the app and you're ready to go!
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Download 
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- http://downloadLink
+
+## Disclaimer
+Please note that the Elevator Timer App is not responsible for any missed elevator opportunities or elevator-related mishaps. Use at your own risk!
+
+## Contributers
+-  Abdelrahman Ashraf ()
+- Mahmoud Rabie ()
+- Ahmed Anwar ()
