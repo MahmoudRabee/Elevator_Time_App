@@ -26,6 +26,6 @@ To install the Elevator Timer App, simply download the APK file onto your Androi
 Please note that the Elevator Timer App is not responsible for any missed elevator opportunities or elevator-related mishaps. Use at your own risk!
 
 ## Contributers
--  Abdelrahman Ashraf ()
+-  Abdelrahman Ashraf (https://www.linkedin.com/in/abdulrahman-ashraf-abdelhameed)[Abdelrahman Linkedin Profile]
 - Mahmoud Rabie ()
 - Ahmed Anwar ()
